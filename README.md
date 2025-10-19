@@ -79,6 +79,7 @@ pip install -r requirements.txt
 ## 📘 Usage
 
 ### 1. Prepare the Dataset
+Data can be reached from the following link: [Hate Speech and Offensive Language Dataset](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset)
 
 Your data should be a CSV file with at least the following columns:
 
@@ -212,5 +213,5 @@ Test Loss: 0.6523  | Test Acc: 0.7654 | Test F1_macro: 0.7552
 Remaining pool size: 2580
 ```
 
-Data can be reached from the following link: [Hate Speech and Offensive Language Dataset](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset)
+
 
