@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🧠 Active Learning for Hate Speech Detection
 
 This repository implements an **Active Learning framework** for text classification tasks using **BERT-based models**.  
@@ -25,7 +25,7 @@ Each cycle includes:
 ## 🧩 Repository Structure
 
 ```
-```
+
 active_learning/
 │
 ├── main.py                              # Main entry point for active learning pipeline
